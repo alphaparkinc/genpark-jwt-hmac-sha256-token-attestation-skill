@@ -1,0 +1,9 @@
+{
+  "name": "genpark-jwt-hmac-sha256-token-attestation-skill",
+  "version": "1.0.0",
+  "description": "Cryptographic JSON Web Token (JWT) engine with RFC 7519 HMAC-SHA256 signature verification, claims validation, and expiration enforcement.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
